@@ -8,9 +8,9 @@ your Mac), asks a small decision model whether that matches your goal, and if yo
 off, the notch grows into a Dynamic-Island-style bar and shakes at you. That's it. No
 blocklists, no timers, no "are you sure?" dialogs — just a nudge when you need one.
 
-<video src="https://github.com/code-vagabond/notchfocus/raw/main/docs/demo.mp4" controls muted loop width="700"></video>
+https://github.com/user-attachments/assets/3e9e5628-9f93-4937-b3dc-02d1818132ff
 
-*(No video? [Watch the 30 s demo](docs/demo.mp4).)*
+*(Player not showing? [Download the 30 s demo](docs/demo.mp4).)*
 
 ```
 ScreenCaptureKit (active window) → Apple Vision OCR → { goal, app, title, url, screen_text }
